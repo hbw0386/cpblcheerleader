@@ -1,6 +1,7 @@
 # cpblcheerleader update history:
 
 2025.5.1
+- 更新賽事結果至5.1 (G70)
 - 更新富邦5月班表
 - 更新中信6月班表
 - 更新台鋼6月班表
