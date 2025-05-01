@@ -1,4 +1,4 @@
-# cpblcheerleader edit history:
+# cpblcheerleader update history:
 
 2025.5.1
 - 更新富邦5月班表
